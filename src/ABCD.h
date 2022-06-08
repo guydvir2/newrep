@@ -13,7 +13,7 @@ private:
 
 public:
     firstLib();
-    // void printME();
+    void printME();
 };
 
 #endif
