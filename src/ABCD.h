@@ -2,8 +2,8 @@
 #define first_LIB_h
 
 #include "Arduino.h"
-#include <ESP8266WiFi.h>
-#include <MQTT.h>
+#include <Panda_segmentBed_I2C.h>
+
 
 class firstLib
 {
