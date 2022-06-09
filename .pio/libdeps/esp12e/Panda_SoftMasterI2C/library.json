@@ -1,0 +1,18 @@
+{
+  "name": "Panda_SoftMasterI2C",
+  "version": "1.0.3",
+  "keywords": "3D printer, Panda segmented heat Bed,Bed Distance sensor, I2C",
+  "description": "A library for Control Panda segmentedd heat bed of 3d printer",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/markniu/SoftMasterI2C.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "stm32",
+    "espressif8266"
+  ]
+}
